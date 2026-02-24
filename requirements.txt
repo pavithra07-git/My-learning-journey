@@ -1,0 +1,3 @@
+Required software for the code 
+
+qiskit>=1.0.0
